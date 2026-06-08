@@ -1,0 +1,806 @@
+{
+  "fr": {
+    "info": {
+      "nom": "Sven Spaltner",
+      "titre": "Étudiant en écriture littéraire & chercheur en littérature comparée",
+      "email": "svenspaltner@aol.com",
+      "site": "",
+      "github": "",
+      "orcid": "",
+      "age": 25
+    },
+    "sections": [
+      {
+        "key": "formation_initiale",
+        "label": "Formation initiale",
+        "champ": "lieu"
+      },
+      {
+        "key": "experience_pro",
+        "label": "Expérience professionnelle",
+        "champ": "lieu"
+      },
+      {
+        "key": "travaux",
+        "label": "Travaux académiques",
+        "champ": "titre"
+      },
+      {
+        "key": "interventions",
+        "label": "Interventions",
+        "champ": "titre"
+      },
+      {
+        "key": "creations",
+        "label": "Créations",
+        "champ": "titre"
+      },
+      {
+        "key": "bourses",
+        "label": "Bourses & Récompenses",
+        "champ": "titre"
+      },
+      {
+        "key": "mitgliedschaften",
+        "label": "Affiliations",
+        "champ": "titre"
+      },
+      {
+        "key": "formation_continue",
+        "label": "Formation continue",
+        "champ": "lieu"
+      }
+    ],
+    "formation_initiale": [
+      {
+        "date_debut": "10/2023",
+        "date_fin": "",
+        "lieu": "Deutsches Literaturinstitut Leipzig",
+        "sous_titre": "Écriture littéraire (Bachelor of Arts)",
+        "lien": ""
+      },
+      {
+        "date_debut": "03/2023",
+        "date_fin": "06/2023",
+        "lieu": "Université des arts appliqués de Vienne",
+        "sous_titre": "Semestre Erasmus — Institut für Sprachkunst",
+        "lien": ""
+      },
+      {
+        "date_debut": "10/2020",
+        "date_fin": "09/2023",
+        "lieu": "Université de Cologne",
+        "sous_titre": "Littérature comparée & langue et littérature allemandes (2-Fach-Master of Arts, mention 1,0)",
+        "lien": ""
+      },
+      {
+        "date_debut": "01/2022",
+        "date_fin": "06/2022",
+        "lieu": "Université Paris Cité",
+        "sous_titre": "Semestre Erasmus — Sciences du langage",
+        "lien": ""
+      },
+      {
+        "date_debut": "10/2017",
+        "date_fin": "09/2020",
+        "lieu": "Université de Cologne",
+        "sous_titre": "Histoire de l'art & langue et littérature allemandes (2-Fach-Bachelor of Arts, mention 1,0)",
+        "lien": ""
+      },
+      {
+        "date_debut": "08/2009",
+        "date_fin": "05/2017",
+        "lieu": "Städtisches Gymnasium Herzogenrath",
+        "sous_titre": "Abitur (mention 1,4)",
+        "lien": ""
+      }
+    ],
+    "experience_pro": [
+      {
+        "date_debut": "10/2023",
+        "date_fin": "",
+        "lieu": "Centre France de l'Université de Leipzig",
+        "sous_titre": "Assistant de recherche — réseautage scientifique, organisation d'événements, administration",
+        "lien": ""
+      },
+      {
+        "date_debut": "12/2021",
+        "date_fin": "12/2022",
+        "lieu": "Museum Ludwig, Cologne",
+        "sous_titre": "Médiation culturelle — programme Kunst:Dialoge",
+        "lien": ""
+      },
+      {
+        "date_debut": "08/2021",
+        "date_fin": "12/2021",
+        "lieu": "a.r.t.e.s. Graduate School for the Humanities Cologne",
+        "sous_titre": "Assistant de recherche — administration, organisation, soutien au bureau doctoral",
+        "lien": ""
+      }
+    ],
+    "travaux": [],
+    "interventions": [
+      {
+        "date_debut": "06/2024",
+        "date_fin": "",
+        "titre": "A kind of hysterical Writing. Fictocriticism als künstlerische Forschung",
+        "sous_titre": "Panel « Fiktives Wissen – Wissen der Fiktion », conférence Schreiben was kommt, Cologne",
+        "lien": ""
+      },
+      {
+        "date_debut": "11/2022",
+        "date_fin": "",
+        "titre": "Einsamkeit als Bedingung des Schriftstellerinwerdens. Bettina von Arnims Goethe's Briefwechsel mit einem Kinde",
+        "sous_titre": "Journée d'études de la Junge Deutsche Schillergesellschaft sur les réflexions littéraires de la solitude",
+        "lien": ""
+      }
+    ],
+    "creations": [
+      {
+        "date_debut": "09/2025",
+        "date_fin": "",
+        "titre": "VALIUM PANIC",
+        "sous_titre": "Mise en scène théâtrale du collectif BUNDESJUGENDTUSSI",
+        "lien": ""
+      },
+      {
+        "date_debut": "07/2025",
+        "date_fin": "",
+        "titre": "sedier mich / desire me",
+        "sous_titre": "Avec Otti Schollek — texte de théâtre, Literarische Blätter 7, 7 (2025)",
+        "lien": ""
+      },
+      {
+        "date_debut": "05/2025",
+        "date_fin": "",
+        "titre": "OUR REPUBLICS ARE MAKING LOVE",
+        "sous_titre": "Performance d'étudiants de Belgrade, Vienne et Zagreb — Wiener Festwochen",
+        "lien": ""
+      },
+      {
+        "date_debut": "03/2025",
+        "date_fin": "",
+        "titre": "On Being An Angel",
+        "sous_titre": "Nouvelle, Tippgemeinschaft 2025",
+        "lien": ""
+      }
+    ],
+    "bourses": [
+      {
+        "date_debut": "10/2019",
+        "date_fin": "09/2022",
+        "titre": "Deutschlandstipendium",
+        "sous_titre": "Bourse nationale pour étudiants talentueux et méritants",
+        "lien": ""
+      },
+      {
+        "date_debut": "2021",
+        "date_fin": "",
+        "titre": "postpoetry.NRW-Preis",
+        "sous_titre": "",
+        "lien": ""
+      },
+      {
+        "date_debut": "2018",
+        "date_fin": "",
+        "titre": "postpoetry.NRW-Preis",
+        "sous_titre": "",
+        "lien": ""
+      },
+      {
+        "date_debut": "2020",
+        "date_fin": "",
+        "titre": "Invitation au 35e Treffen junger Autor*innen",
+        "sous_titre": "Berliner Festspiele",
+        "lien": ""
+      },
+      {
+        "date_debut": "2019",
+        "date_fin": "",
+        "titre": "Jahresgewinn — lyrix-Bundeswettbewerb für junge Lyrik",
+        "sous_titre": "",
+        "lien": ""
+      }
+    ],
+    "formation_continue": [
+      {
+        "date_debut": "08/2023",
+        "date_fin": "11/2023",
+        "lieu": "Literaturlabor Köln",
+        "sous_titre": "Développement d'un format de lecture scénique avec des acteurs de la scène littéraire cologne",
+        "lien": ""
+      },
+      {
+        "date_debut": "11/2022",
+        "date_fin": "11/2023",
+        "lieu": "Literaturarchiv Marbach",
+        "sous_titre": "Journées de la Junge Deutsche Schillergesellschaft — « Solitude » et « Guerre et paix »",
+        "lien": ""
+      },
+      {
+        "date_debut": "09/2021",
+        "date_fin": "12/2021",
+        "lieu": "Museum Ludwig, Cologne",
+        "sous_titre": "Formation Kunst:Dialoge — séminaires hebdomadaires en médiation culturelle",
+        "lien": ""
+      },
+      {
+        "date_debut": "10/2020",
+        "date_fin": "09/2022",
+        "lieu": "a.r.t.e.s. Graduate School for the Humanities Cologne",
+        "sous_titre": "Programme Research-Master — perspectives de recherche interdisciplinaire (mention 1,0)",
+        "lien": ""
+      }
+    ],
+    "competences": {
+      "langues": [
+        "Allemand (langue maternelle)",
+        "Anglais (C1)",
+        "Français (C1)",
+        "Latin (petit latinum)"
+      ],
+      "numerique": [
+        "MS Office"
+      ]
+    },
+    "interets": [
+      "Gender & Queer Studies",
+      "Déconstruction",
+      "Théorie des archives"
+    ],
+    "labels": {
+      "competences": "Compétences",
+      "langues": "Langues",
+      "numerique": "Numérique",
+      "interets": "Intérêts",
+      "tout": "Tout",
+      "orcid": "ORCID",
+      "age": "ans"
+    },
+    "mitgliedschaften": [
+      {
+        "date_debut": "2022",
+        "date_fin": "",
+        "titre": "Deutsche Schillergesellschaft",
+        "sous_titre": "",
+        "lien": ""
+      }
+    ]
+  },
+  "de": {
+    "info": {
+      "nom": "Sven Spaltner",
+      "titre": "Student des Literarischen Schreibens & Komparatist",
+      "email": "svenspaltner@aol.com",
+      "site": "",
+      "github": "",
+      "orcid": "",
+      "age": 25
+    },
+    "sections": [
+      {
+        "key": "formation_initiale",
+        "label": "Bildungsweg",
+        "champ": "lieu"
+      },
+      {
+        "key": "experience_pro",
+        "label": "Berufserfahrung",
+        "champ": "lieu"
+      },
+      {
+        "key": "travaux",
+        "label": "Wissenschaftliche Arbeiten",
+        "champ": "titre"
+      },
+      {
+        "key": "interventions",
+        "label": "Vorträge",
+        "champ": "titre"
+      },
+      {
+        "key": "creations",
+        "label": "Künstlerisches Schaffen",
+        "champ": "titre"
+      },
+      {
+        "key": "bourses",
+        "label": "Stipendien & Auszeichnungen",
+        "champ": "titre"
+      },
+      {
+        "key": "mitgliedschaften",
+        "label": "Mitgliedschaften",
+        "champ": "titre"
+      },
+      {
+        "key": "formation_continue",
+        "label": "Weiterbildung",
+        "champ": "lieu"
+      }
+    ],
+    "formation_initiale": [
+      {
+        "date_debut": "10/2023",
+        "date_fin": "",
+        "lieu": "Deutsches Literaturinstitut Leipzig",
+        "sous_titre": "Studium des Literarischen Schreibens (Bachelor of Arts)",
+        "lien": ""
+      },
+      {
+        "date_debut": "03/2023",
+        "date_fin": "06/2023",
+        "lieu": "Universität für Angewandte Kunst Wien",
+        "sous_titre": "Erasmussemester am Institut für Sprachkunst",
+        "lien": ""
+      },
+      {
+        "date_debut": "10/2020",
+        "date_fin": "09/2023",
+        "lieu": "Universität zu Köln",
+        "sous_titre": "Komparatistik sowie deutsche Sprache und Literatur (2-Fach-Master of Arts, Note 1,0)",
+        "lien": ""
+      },
+      {
+        "date_debut": "01/2022",
+        "date_fin": "06/2022",
+        "lieu": "Université Paris Cité",
+        "sous_titre": "Erasmussemester — Sciences du langage (französische Sprachwissenschaften)",
+        "lien": ""
+      },
+      {
+        "date_debut": "10/2017",
+        "date_fin": "09/2020",
+        "lieu": "Universität zu Köln",
+        "sous_titre": "Kunstgeschichte sowie deutsche Sprache und Literatur (2-Fach-Bachelor of Arts, Note 1,0)",
+        "lien": ""
+      },
+      {
+        "date_debut": "08/2009",
+        "date_fin": "05/2017",
+        "lieu": "Städtisches Gymnasium Herzogenrath",
+        "sous_titre": "Allgemeine Hochschulreife (Note 1,4)",
+        "lien": ""
+      }
+    ],
+    "experience_pro": [
+      {
+        "date_debut": "10/2023",
+        "date_fin": "",
+        "lieu": "Frankreichzentrum der Universität Leipzig",
+        "sous_titre": "Wissenschaftliche Hilfskraft — Wissenschaftsvernetzung, Veranstaltungsorganisation, Administration",
+        "lien": ""
+      },
+      {
+        "date_debut": "12/2021",
+        "date_fin": "12/2022",
+        "lieu": "Museum Ludwig, Köln",
+        "sous_titre": "Kunstvermittlung im Kunst:Dialoge-Programm",
+        "lien": ""
+      },
+      {
+        "date_debut": "08/2021",
+        "date_fin": "12/2021",
+        "lieu": "a.r.t.e.s. Graduate School for the Humanities Cologne",
+        "sous_titre": "Wissenschaftliche Hilfskraft — Administration, Organisation, Promotionsbüro",
+        "lien": ""
+      }
+    ],
+    "travaux": [],
+    "interventions": [
+      {
+        "date_debut": "06/2024",
+        "date_fin": "",
+        "titre": "A kind of hysterical Writing. Fictocriticism als künstlerische Forschung",
+        "sous_titre": "Panel „Fiktives Wissen – Wissen der Fiktion“, Konferenz Schreiben was kommt, Köln",
+        "lien": ""
+      },
+      {
+        "date_debut": "11/2022",
+        "date_fin": "",
+        "titre": "Einsamkeit als Bedingung des Schriftstellerinwerdens. Bettina von Arnims Goethe's Briefwechsel mit einem Kinde",
+        "sous_titre": "Tagung der Jungen Deutschen Schillergesellschaft zu literarischen Einsamkeitsreflexionen",
+        "lien": ""
+      }
+    ],
+    "creations": [
+      {
+        "date_debut": "09/2025",
+        "date_fin": "",
+        "titre": "VALIUM PANIC",
+        "sous_titre": "Theaterinszenierung des Kollektivs BUNDESJUGENDTUSSI",
+        "lien": ""
+      },
+      {
+        "date_debut": "07/2025",
+        "date_fin": "",
+        "titre": "sedier mich / desire me",
+        "sous_titre": "mit Otti Schollek — Theatertext in den Literarischen Blättern 7, 7 (2025)",
+        "lien": ""
+      },
+      {
+        "date_debut": "05/2025",
+        "date_fin": "",
+        "titre": "OUR REPUBLICS ARE MAKING LOVE",
+        "sous_titre": "Performance von Studierenden aus Belgrad, Wien und Zagreb bei den Wiener Festwochen",
+        "lien": ""
+      },
+      {
+        "date_debut": "03/2025",
+        "date_fin": "",
+        "titre": "On Being An Angel",
+        "sous_titre": "Kurzgeschichte in der Tippgemeinschaft 2025",
+        "lien": ""
+      }
+    ],
+    "bourses": [
+      {
+        "date_debut": "10/2019",
+        "date_fin": "09/2022",
+        "titre": "Deutschlandstipendium",
+        "sous_titre": "für begabte und leistungsstarke Studierende",
+        "lien": ""
+      },
+      {
+        "date_debut": "2021",
+        "date_fin": "",
+        "titre": "postpoetry.NRW-Preis",
+        "sous_titre": "",
+        "lien": ""
+      },
+      {
+        "date_debut": "2018",
+        "date_fin": "",
+        "titre": "postpoetry.NRW-Preis",
+        "sous_titre": "",
+        "lien": ""
+      },
+      {
+        "date_debut": "2020",
+        "date_fin": "",
+        "titre": "Einladung zum 35. Treffen junger Autor*innen",
+        "sous_titre": "Berliner Festspiele",
+        "lien": ""
+      },
+      {
+        "date_debut": "2019",
+        "date_fin": "",
+        "titre": "Jahresgewinn — lyrix-Bundeswettbewerb für junge Lyrik",
+        "sous_titre": "",
+        "lien": ""
+      }
+    ],
+    "formation_continue": [
+      {
+        "date_debut": "08/2023",
+        "date_fin": "11/2023",
+        "lieu": "Literaturlabor Köln",
+        "sous_titre": "Entwicklung eines szenischen Lesungsformates mit Akteur*innen der Kölner Literaturszene",
+        "lien": ""
+      },
+      {
+        "date_debut": "11/2022",
+        "date_fin": "11/2023",
+        "lieu": "Literaturarchiv Marbach",
+        "sous_titre": "Tagungen der Jungen Deutschen Schillergesellschaft — Einsamkeit und Krieg und Frieden",
+        "lien": ""
+      },
+      {
+        "date_debut": "09/2021",
+        "date_fin": "12/2021",
+        "lieu": "Museum Ludwig, Köln",
+        "sous_titre": "Kunst:Dialoge-Ausbildung — wöchentliche Tutorien zu Kulturvermittlung",
+        "lien": ""
+      },
+      {
+        "date_debut": "10/2020",
+        "date_fin": "09/2022",
+        "lieu": "a.r.t.e.s. Graduate School for the Humanities Cologne",
+        "sous_titre": "Research-Master Programm — interdisziplinäre Forschungsperspektiven (Note 1,0)",
+        "lien": ""
+      }
+    ],
+    "competences": {
+      "langues": [
+        "Deutsch (Muttersprache)",
+        "Englisch (C1)",
+        "Französisch (C1)",
+        "Latein (kleines Latinum)"
+      ],
+      "numerique": [
+        "MS Office"
+      ]
+    },
+    "interets": [
+      "Gender & Queer Studies",
+      "Dekonstruktion",
+      "Archivtheorie"
+    ],
+    "labels": {
+      "competences": "Kenntnisse",
+      "langues": "Sprachen",
+      "numerique": "EDV",
+      "interets": "Interessen",
+      "tout": "Alle",
+      "orcid": "ORCID",
+      "age": "Jahre"
+    },
+    "mitgliedschaften": [
+      {
+        "date_debut": "2022",
+        "date_fin": "",
+        "titre": "Deutsche Schillergesellschaft",
+        "sous_titre": "",
+        "lien": ""
+      }
+    ]
+  },
+  "en": {
+    "info": {
+      "nom": "Sven Spaltner",
+      "titre": "Student of Literary Writing & Comparative Literature",
+      "email": "svenspaltner@aol.com",
+      "site": "",
+      "github": "",
+      "orcid": "",
+      "age": 25
+    },
+    "sections": [
+      {
+        "key": "formation_initiale",
+        "label": "Education",
+        "champ": "lieu"
+      },
+      {
+        "key": "experience_pro",
+        "label": "Professional experience",
+        "champ": "lieu"
+      },
+      {
+        "key": "travaux",
+        "label": "Academic works",
+        "champ": "titre"
+      },
+      {
+        "key": "interventions",
+        "label": "Talks",
+        "champ": "titre"
+      },
+      {
+        "key": "creations",
+        "label": "Creative works",
+        "champ": "titre"
+      },
+      {
+        "key": "bourses",
+        "label": "Grants & awards",
+        "champ": "titre"
+      },
+      {
+        "key": "mitgliedschaften",
+        "label": "Memberships",
+        "champ": "titre"
+      },
+      {
+        "key": "formation_continue",
+        "label": "Further training",
+        "champ": "lieu"
+      }
+    ],
+    "formation_initiale": [
+      {
+        "date_debut": "10/2023",
+        "date_fin": "",
+        "lieu": "Deutsches Literaturinstitut Leipzig",
+        "sous_titre": "Literary Writing (Bachelor of Arts)",
+        "lien": ""
+      },
+      {
+        "date_debut": "03/2023",
+        "date_fin": "06/2023",
+        "lieu": "University of Applied Arts Vienna",
+        "sous_titre": "Erasmus semester — Institut für Sprachkunst",
+        "lien": ""
+      },
+      {
+        "date_debut": "10/2020",
+        "date_fin": "09/2023",
+        "lieu": "University of Cologne",
+        "sous_titre": "Comparative Literature & German Language and Literature (2-subject MA, grade 1.0)",
+        "lien": ""
+      },
+      {
+        "date_debut": "01/2022",
+        "date_fin": "06/2022",
+        "lieu": "Université Paris Cité",
+        "sous_titre": "Erasmus semester — Linguistics (Sciences du langage)",
+        "lien": ""
+      },
+      {
+        "date_debut": "10/2017",
+        "date_fin": "09/2020",
+        "lieu": "University of Cologne",
+        "sous_titre": "Art History & German Language and Literature (2-subject BA, grade 1.0)",
+        "lien": ""
+      },
+      {
+        "date_debut": "08/2009",
+        "date_fin": "05/2017",
+        "lieu": "Städtisches Gymnasium Herzogenrath",
+        "sous_titre": "Abitur (grade 1.4)",
+        "lien": ""
+      }
+    ],
+    "experience_pro": [
+      {
+        "date_debut": "10/2023",
+        "date_fin": "",
+        "lieu": "French Centre, University of Leipzig",
+        "sous_titre": "Research assistant — academic networking, event organisation, administration",
+        "lien": ""
+      },
+      {
+        "date_debut": "12/2021",
+        "date_fin": "12/2022",
+        "lieu": "Museum Ludwig, Cologne",
+        "sous_titre": "Cultural mediation — Kunst:Dialoge programme",
+        "lien": ""
+      },
+      {
+        "date_debut": "08/2021",
+        "date_fin": "12/2021",
+        "lieu": "a.r.t.e.s. Graduate School for the Humanities Cologne",
+        "sous_titre": "Research assistant — administration, organisation, doctoral office support",
+        "lien": ""
+      }
+    ],
+    "travaux": [],
+    "interventions": [
+      {
+        "date_debut": "06/2024",
+        "date_fin": "",
+        "titre": "A kind of hysterical Writing. Fictocriticism as artistic research",
+        "sous_titre": "Panel »Fictive Knowledge – Knowledge of Fiction», conference Schreiben was kommt, Cologne",
+        "lien": ""
+      },
+      {
+        "date_debut": "11/2022",
+        "date_fin": "",
+        "titre": "Solitude as a Condition of Becoming a Writer. Bettina von Arnim's Goethe's Briefwechsel mit einem Kinde",
+        "sous_titre": "Conference of the Junge Deutsche Schillergesellschaft on literary reflections on solitude",
+        "lien": ""
+      }
+    ],
+    "creations": [
+      {
+        "date_debut": "09/2025",
+        "date_fin": "",
+        "titre": "VALIUM PANIC",
+        "sous_titre": "Theatre production by collective BUNDESJUGENDTUSSI",
+        "lien": ""
+      },
+      {
+        "date_debut": "07/2025",
+        "date_fin": "",
+        "titre": "sedier mich / desire me",
+        "sous_titre": "With Otti Schollek — theatre text, Literarische Blätter 7, 7 (2025)",
+        "lien": ""
+      },
+      {
+        "date_debut": "05/2025",
+        "date_fin": "",
+        "titre": "OUR REPUBLICS ARE MAKING LOVE",
+        "sous_titre": "Performance by students from Belgrade, Vienna and Zagreb at the Wiener Festwochen",
+        "lien": ""
+      },
+      {
+        "date_debut": "03/2025",
+        "date_fin": "",
+        "titre": "On Being An Angel",
+        "sous_titre": "Short story, Tippgemeinschaft 2025",
+        "lien": ""
+      }
+    ],
+    "bourses": [
+      {
+        "date_debut": "10/2019",
+        "date_fin": "09/2022",
+        "titre": "Deutschlandstipendium",
+        "sous_titre": "National scholarship for talented and high-achieving students",
+        "lien": ""
+      },
+      {
+        "date_debut": "2021",
+        "date_fin": "",
+        "titre": "postpoetry.NRW Prize",
+        "sous_titre": "",
+        "lien": ""
+      },
+      {
+        "date_debut": "2018",
+        "date_fin": "",
+        "titre": "postpoetry.NRW Prize",
+        "sous_titre": "",
+        "lien": ""
+      },
+      {
+        "date_debut": "2020",
+        "date_fin": "",
+        "titre": "Invitation to the 35th Treffen junger Autor*innen",
+        "sous_titre": "Berliner Festspiele",
+        "lien": ""
+      },
+      {
+        "date_debut": "2019",
+        "date_fin": "",
+        "titre": "Annual prize — lyrix federal competition for young poetry",
+        "sous_titre": "",
+        "lien": ""
+      }
+    ],
+    "formation_continue": [
+      {
+        "date_debut": "08/2023",
+        "date_fin": "11/2023",
+        "lieu": "Literaturlabor Köln",
+        "sous_titre": "Development of a staged reading format with actors from the Cologne literary scene",
+        "lien": ""
+      },
+      {
+        "date_debut": "11/2022",
+        "date_fin": "11/2023",
+        "lieu": "Literaturarchiv Marbach",
+        "sous_titre": "Conferences of the Junge Deutsche Schillergesellschaft — »Solitude» and »War and Peace»",
+        "lien": ""
+      },
+      {
+        "date_debut": "09/2021",
+        "date_fin": "12/2021",
+        "lieu": "Museum Ludwig, Cologne",
+        "sous_titre": "Kunst:Dialoge training — weekly tutorials in cultural mediation methods",
+        "lien": ""
+      },
+      {
+        "date_debut": "10/2020",
+        "date_fin": "09/2022",
+        "lieu": "a.r.t.e.s. Graduate School for the Humanities Cologne",
+        "sous_titre": "Research-Master programme — interdisciplinary research perspectives (grade 1.0)",
+        "lien": ""
+      }
+    ],
+    "competences": {
+      "langues": [
+        "German (native)",
+        "English (C1)",
+        "French (C1)",
+        "Latin (kleines Latinum)"
+      ],
+      "numerique": [
+        "MS Office"
+      ]
+    },
+    "interets": [
+      "Gender & Queer Studies",
+      "Deconstruction",
+      "Archive theory"
+    ],
+    "labels": {
+      "competences": "Skills",
+      "langues": "Languages",
+      "numerique": "Digital",
+      "interets": "Interests",
+      "tout": "All",
+      "orcid": "ORCID",
+      "age": "y.o."
+    },
+    "mitgliedschaften": [
+      {
+        "date_debut": "2022",
+        "date_fin": "",
+        "titre": "Deutsche Schillergesellschaft",
+        "sous_titre": "",
+        "lien": ""
+      }
+    ]
+  }
+}

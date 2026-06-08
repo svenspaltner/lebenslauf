@@ -1,0 +1,148 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: #fff;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
+  color: #111;
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+/* ── TOPBAR ── */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #fff;
+  border-bottom: 1px solid #e8e8e8;
+}
+.topbar-row {
+  display: flex;
+  align-items: center;
+  padding: 0 2rem;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #f0f0f0;
+}
+.topbar-row:last-child { border-bottom: none; }
+
+.lang-btn {
+  background: none; border: none;
+  color: #bbb; cursor: pointer;
+  font-family: inherit; font-size: 10px;
+  font-weight: 400; letter-spacing: 0.12em;
+  padding: 8px 8px; text-transform: uppercase;
+  transition: color 0.1s;
+}
+.lang-btn:hover { color: #111; }
+.lang-btn.active { color: #00c896; }
+
+.filter-btn {
+  background: none; border: none;
+  color: #999; cursor: pointer;
+  font-family: inherit; font-size: 11px;
+  font-weight: 300; padding: 7px 9px;
+  white-space: nowrap; transition: color 0.1s;
+  position: relative;
+  display: inline-flex; align-items: center; gap: 5px;
+}
+.filter-btn svg { flex-shrink: 0; }
+.filter-btn::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 9px; right: 9px;
+  height: 1.5px; background: #00c896;
+  transform: scaleX(0); transition: transform 0.15s;
+}
+.filter-btn:hover { color: #333; }
+.filter-btn.active { color: #111; }
+.filter-btn.active::after { transform: scaleX(1); }
+
+/* ── CV ── */
+.cv-wrap { max-width: 680px; margin: 0 auto; padding: 1.8rem 2rem 3rem; }
+
+.cv-header { margin-bottom: 1.2rem; padding-bottom: 1rem; border-bottom: 1px solid #ececec; }
+.cv-name { font-size: 18px; font-weight: 400; letter-spacing: -0.01em; margin-bottom: 2px; }
+.cv-title { font-size: 11.5px; color: #00a87a; font-weight: 300; margin-bottom: 7px; }
+.cv-contact { display: flex; gap: 1.2rem; flex-wrap: wrap; font-size: 11px; color: #aaa; }
+.cv-contact a { color: #aaa; text-decoration: none; }
+.cv-contact a:hover { color: #00c896; }
+.orcid-id { font-family: monospace; font-size: 10.5px; }
+
+.cv-section { border-bottom: 1px solid #f2f2f2; padding: 0.6rem 0; }
+
+.section-label {
+  font-size: 9.5px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 0.4rem;
+  font-weight: 400;
+}
+
+.entry {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 0 1rem;
+  padding: 2px 0;
+}
+
+@media (max-width: 600px) {
+  .cv-wrap { padding: 1.2rem 1rem 2rem; }
+
+  .topbar-row { padding: 0 1rem; }
+
+  .entry {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .entry-dates {
+    font-size: 10px;
+    color: #bbb;
+    margin-bottom: 1px;
+  }
+
+  .filter-btn { font-size: 10px; padding: 6px 6px; }
+  .lang-btn { padding: 6px 6px; }
+
+  .cv-name { font-size: 16px; }
+  .cv-contact { gap: 0.7rem; }
+}
+.entry-dates { font-size: 11px; color: #ccc; padding-top: 1px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.entry-title { font-size: 13px; font-weight: 400; color: #111; }
+.entry-title a { color: #111; text-decoration: none; border-bottom: 1px solid #e8e8e8; }
+.entry-title a:hover { border-color: #00c896; color: #00a87a; }
+.entry-sub { font-size: 11.5px; font-weight: 300; color: #999; }
+
+.tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 2px; }
+.tag { font-size: 10.5px; color: #999; border: 1px solid #ececec; padding: 1px 6px; border-radius: 2px; }
+.tag.accent { color: #00a87a; border-color: #d0f0e6; }
+
+.interets-line { font-size: 11px; color: #bbb; padding: 0.6rem 0; }
+
+/* ── PRINT ── */
+@media print {
+  @page { margin: 1.8cm 2cm; }
+
+  .topbar { display: none !important; }
+
+  body { font-size: 11px; color: #000; }
+
+  .cv-wrap { max-width: 100%; padding: 0; }
+
+  .cv-name { font-size: 16px; }
+  .cv-title { color: #333 !important; }
+  .cv-contact a, .cv-contact span { color: #333 !important; }
+
+  .entry-title a { color: #000 !important; border-bottom: none !important; }
+  .tag.accent { color: #333 !important; border-color: #ccc !important; }
+  .section-label { color: #555 !important; }
+  .entry-dates { color: #888 !important; }
+  .entry-sub { color: #555 !important; }
+  .interets-line { color: #888 !important; }
+
+  .cv-section { break-inside: avoid; page-break-inside: avoid; }
+  .entry { break-inside: avoid; page-break-inside: avoid; }
+  .cv-header { break-after: avoid; page-break-after: avoid; }
+}
