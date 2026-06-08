@@ -3,7 +3,7 @@
     "info": {
       "nom": "Sven Spaltner",
       "titre": "Étudiant en écriture littéraire & chercheur en littérature comparée",
-      "email": "svenspaltner@aol.com",
+      "email": "prenomnom [at] aol.com",
       "site": "",
       "github": "",
       "orcid": "",
@@ -118,48 +118,84 @@
         "lien": ""
       }
     ],
-    "travaux": [],
+    "travaux": [
+      {
+        "date_debut": "2020",
+        "date_fin": null,
+        "titre": "Der Porno im Porno. Elfriede Jelineks Roman Lust",
+        "sous_titre": "Mémoire de licence — dir. Prof. Dr. Claudia Emilie Liebrand & Prof. Dr. Christof Hamann",
+        "lien": "assets/pdf/7338726_Spaltner_Sven_13-10-2020_BA-Arbeit.pdf"
+      },
+      {
+        "date_debut": "2021",
+        "date_fin": null,
+        "titre": "Poetologische Naturmetaphorik in Bettina von Arnims Goethe's Briefwechsel mit einem Kinde",
+        "sous_titre": "Séminaire — dir. Prof. Dr. Manuela Günter",
+        "lien": "assets/pdf/Spaltner_Hausarbeit_Geschlecht der Literatur.pdf"
+      },
+      {
+        "date_debut": "2022",
+        "date_fin": null,
+        "titre": "Socio-phonétique pornographique. Linguistique genrée dans le film « Pygmalion » (1938)",
+        "sous_titre": "Séminaire — dir. M. Doury",
+        "lien": "assets/pdf/SPALTNER_dossier.pdf"
+      },
+      {
+        "date_debut": "2022",
+        "date_fin": null,
+        "titre": "Feedback der Abwesenheiten. Mündlichkeit versus Schriftlichkeit in Linguistik und Dekonstruktion",
+        "sous_titre": "Séminaire Research-Master — dir. Prof. Dr. Birgit Hellwig",
+        "lien": "assets/pdf/Hausarbeit Feedback Spaltner.pdf"
+      },
+      {
+        "date_debut": "2023",
+        "date_fin": null,
+        "titre": "Schnittstellen. Selbstverletzung als Schriftphänomen",
+        "sous_titre": "Mémoire de master — dir. Prof. Joachim Harst",
+        "lien": "assets/pdf/7338726_Spaltner_Sven_18-01-2024_MA-Arbeit.pdf"
+      }
+    ],
     "interventions": [
       {
         "date_debut": "06/2024",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "A kind of hysterical Writing. Fictocriticism als künstlerische Forschung",
         "sous_titre": "Panel « Fiktives Wissen – Wissen der Fiktion », conférence Schreiben was kommt, Cologne",
-        "lien": ""
+        "lien": "https://www.khm.de/schreiben_freitag/"
       },
       {
         "date_debut": "11/2022",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "Einsamkeit als Bedingung des Schriftstellerinwerdens. Bettina von Arnims Goethe's Briefwechsel mit einem Kinde",
         "sous_titre": "Journée d'études de la Junge Deutsche Schillergesellschaft sur les réflexions littéraires de la solitude",
-        "lien": ""
+        "lien": "https://blog.dla-marbach.de/2022/11/29/goethes-briefwechsel-mit-einem-kinde/"
       }
     ],
     "creations": [
       {
         "date_debut": "09/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "VALIUM PANIC",
         "sous_titre": "Mise en scène théâtrale du collectif BUNDESJUGENDTUSSI",
-        "lien": ""
+        "lien": "https://www.instagram.com/bundesjugendtussi/"
       },
       {
         "date_debut": "07/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "sedier mich / desire me",
         "sous_titre": "Avec Otti Schollek — texte de théâtre, Literarische Blätter 7, 7 (2025)",
-        "lien": ""
+        "lien": "https://www.literarische-blaetter.de/jahrgang-2025/juli-2025/"
       },
       {
         "date_debut": "05/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "OUR REPUBLICS ARE MAKING LOVE",
         "sous_titre": "Performance d'étudiants de Belgrade, Vienne et Zagreb — Wiener Festwochen",
         "lien": ""
       },
       {
         "date_debut": "03/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "On Being An Angel",
         "sous_titre": "Nouvelle, Tippgemeinschaft 2025",
         "lien": ""
@@ -175,28 +211,28 @@
       },
       {
         "date_debut": "2021",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "postpoetry.NRW-Preis",
         "sous_titre": "",
         "lien": ""
       },
       {
         "date_debut": "2018",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "postpoetry.NRW-Preis",
         "sous_titre": "",
         "lien": ""
       },
       {
         "date_debut": "2020",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "Invitation au 35e Treffen junger Autor*innen",
         "sous_titre": "Berliner Festspiele",
         "lien": ""
       },
       {
         "date_debut": "2019",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "Jahresgewinn — lyrix-Bundeswettbewerb für junge Lyrik",
         "sous_titre": "",
         "lien": ""
@@ -271,7 +307,7 @@
     "info": {
       "nom": "Sven Spaltner",
       "titre": "Student des Literarischen Schreibens & Komparatist",
-      "email": "svenspaltner@aol.com",
+      "email": "vornamenachname [at] aol.com",
       "site": "",
       "github": "",
       "orcid": "",
@@ -386,48 +422,84 @@
         "lien": ""
       }
     ],
-    "travaux": [],
+    "travaux": [
+      {
+        "date_debut": "2020",
+        "date_fin": null,
+        "titre": "Der Porno im Porno. Elfriede Jelineks Roman Lust",
+        "sous_titre": "Bachelorarbeit — Betreuung: Prof. Dr. Claudia Emilie Liebrand & Prof. Dr. Christof Hamann",
+        "lien": "assets/pdf/7338726_Spaltner_Sven_13-10-2020_BA-Arbeit.pdf"
+      },
+      {
+        "date_debut": "2021",
+        "date_fin": null,
+        "titre": "Poetologische Naturmetaphorik in Bettina von Arnims Goethe's Briefwechsel mit einem Kinde",
+        "sous_titre": "Seminararbeit — Leitung: Prof. Dr. Manuela Günter",
+        "lien": "assets/pdf/Spaltner_Hausarbeit_Geschlecht der Literatur.pdf"
+      },
+      {
+        "date_debut": "2022",
+        "date_fin": null,
+        "titre": "Socio-phonétique pornographique. Linguistique genrée dans le film « Pygmalion » (1938)",
+        "sous_titre": "Seminararbeit — Leitung: M. Doury",
+        "lien": "assets/pdf/SPALTNER_dossier.pdf"
+      },
+      {
+        "date_debut": "2022",
+        "date_fin": null,
+        "titre": "Feedback der Abwesenheiten. Mündlichkeit versus Schriftlichkeit in Linguistik und Dekonstruktion",
+        "sous_titre": "Seminararbeit Research-Master — Leitung: Prof. Dr. Birgit Hellwig",
+        "lien": "assets/pdf/Hausarbeit Feedback Spaltner.pdf"
+      },
+      {
+        "date_debut": "2023",
+        "date_fin": null,
+        "titre": "Schnittstellen. Selbstverletzung als Schriftphänomen",
+        "sous_titre": "Masterarbeit — Betreuung: Prof. Joachim Harst",
+        "lien": "assets/pdf/7338726_Spaltner_Sven_18-01-2024_MA-Arbeit.pdf"
+      }
+    ],
     "interventions": [
       {
         "date_debut": "06/2024",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "A kind of hysterical Writing. Fictocriticism als künstlerische Forschung",
         "sous_titre": "Panel „Fiktives Wissen – Wissen der Fiktion“, Konferenz Schreiben was kommt, Köln",
-        "lien": ""
+        "lien": "https://www.khm.de/schreiben_freitag/"
       },
       {
         "date_debut": "11/2022",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "Einsamkeit als Bedingung des Schriftstellerinwerdens. Bettina von Arnims Goethe's Briefwechsel mit einem Kinde",
         "sous_titre": "Tagung der Jungen Deutschen Schillergesellschaft zu literarischen Einsamkeitsreflexionen",
-        "lien": ""
+        "lien": "https://blog.dla-marbach.de/2022/11/29/goethes-briefwechsel-mit-einem-kinde/"
       }
     ],
     "creations": [
       {
         "date_debut": "09/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "VALIUM PANIC",
         "sous_titre": "Theaterinszenierung des Kollektivs BUNDESJUGENDTUSSI",
-        "lien": ""
+        "lien": "https://www.instagram.com/bundesjugendtussi/"
       },
       {
         "date_debut": "07/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "sedier mich / desire me",
         "sous_titre": "mit Otti Schollek — Theatertext in den Literarischen Blättern 7, 7 (2025)",
-        "lien": ""
+        "lien": "https://www.literarische-blaetter.de/jahrgang-2025/juli-2025/"
       },
       {
         "date_debut": "05/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "OUR REPUBLICS ARE MAKING LOVE",
         "sous_titre": "Performance von Studierenden aus Belgrad, Wien und Zagreb bei den Wiener Festwochen",
         "lien": ""
       },
       {
         "date_debut": "03/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "On Being An Angel",
         "sous_titre": "Kurzgeschichte in der Tippgemeinschaft 2025",
         "lien": ""
@@ -443,28 +515,28 @@
       },
       {
         "date_debut": "2021",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "postpoetry.NRW-Preis",
         "sous_titre": "",
         "lien": ""
       },
       {
         "date_debut": "2018",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "postpoetry.NRW-Preis",
         "sous_titre": "",
         "lien": ""
       },
       {
         "date_debut": "2020",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "Einladung zum 35. Treffen junger Autor*innen",
         "sous_titre": "Berliner Festspiele",
         "lien": ""
       },
       {
         "date_debut": "2019",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "Jahresgewinn — lyrix-Bundeswettbewerb für junge Lyrik",
         "sous_titre": "",
         "lien": ""
@@ -539,7 +611,7 @@
     "info": {
       "nom": "Sven Spaltner",
       "titre": "Student of Literary Writing & Comparative Literature",
-      "email": "svenspaltner@aol.com",
+      "email": "firstnamelastname [at] aol.com",
       "site": "",
       "github": "",
       "orcid": "",
@@ -654,18 +726,54 @@
         "lien": ""
       }
     ],
-    "travaux": [],
+    "travaux": [
+      {
+        "date_debut": "2020",
+        "date_fin": null,
+        "titre": "Der Porno im Porno. Elfriede Jelinek's Novel Lust",
+        "sous_titre": "Bachelor's thesis — sup. Prof. Dr. Claudia Emilie Liebrand & Prof. Dr. Christof Hamann",
+        "lien": "assets/pdf/7338726_Spaltner_Sven_13-10-2020_BA-Arbeit.pdf"
+      },
+      {
+        "date_debut": "2021",
+        "date_fin": null,
+        "titre": "Poetologische Naturmetaphorik in Bettina von Arnims Goethe's Briefwechsel mit einem Kinde",
+        "sous_titre": "Seminar paper — sup. Prof. Dr. Manuela Günter",
+        "lien": "assets/pdf/Spaltner_Hausarbeit_Geschlecht der Literatur.pdf"
+      },
+      {
+        "date_debut": "2022",
+        "date_fin": null,
+        "titre": "Socio-phonétique pornographique. Gendered linguistics in the film Pygmalion (1938)",
+        "sous_titre": "Seminar paper — sup. M. Doury",
+        "lien": "assets/pdf/SPALTNER_dossier.pdf"
+      },
+      {
+        "date_debut": "2022",
+        "date_fin": null,
+        "titre": "Feedback der Abwesenheiten. Orality versus Writing in Linguistics and Deconstruction",
+        "sous_titre": "Research-Master seminar paper — sup. Prof. Dr. Birgit Hellwig",
+        "lien": "assets/pdf/Hausarbeit Feedback Spaltner.pdf"
+      },
+      {
+        "date_debut": "2023",
+        "date_fin": null,
+        "titre": "Schnittstellen. Self-harm as a Scriptural Phenomenon",
+        "sous_titre": "Master's thesis — sup. Prof. Joachim Harst",
+        "lien": "assets/pdf/7338726_Spaltner_Sven_18-01-2024_MA-Arbeit.pdf"
+      }
+    ],
     "interventions": [
       {
         "date_debut": "06/2024",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "A kind of hysterical Writing. Fictocriticism as artistic research",
         "sous_titre": "Panel »Fictive Knowledge – Knowledge of Fiction», conference Schreiben was kommt, Cologne",
-        "lien": ""
+        "lien": "https://www.khm.de/schreiben_freitag/"
       },
       {
         "date_debut": "11/2022",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "Solitude as a Condition of Becoming a Writer. Bettina von Arnim's Goethe's Briefwechsel mit einem Kinde",
         "sous_titre": "Conference of the Junge Deutsche Schillergesellschaft on literary reflections on solitude",
         "lien": ""
@@ -674,28 +782,28 @@
     "creations": [
       {
         "date_debut": "09/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "VALIUM PANIC",
         "sous_titre": "Theatre production by collective BUNDESJUGENDTUSSI",
-        "lien": ""
+        "lien": "https://www.instagram.com/bundesjugendtussi/"
       },
       {
         "date_debut": "07/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "sedier mich / desire me",
         "sous_titre": "With Otti Schollek — theatre text, Literarische Blätter 7, 7 (2025)",
-        "lien": ""
+        "lien": "https://www.literarische-blaetter.de/jahrgang-2025/juli-2025/"
       },
       {
         "date_debut": "05/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "OUR REPUBLICS ARE MAKING LOVE",
         "sous_titre": "Performance by students from Belgrade, Vienna and Zagreb at the Wiener Festwochen",
         "lien": ""
       },
       {
         "date_debut": "03/2025",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "On Being An Angel",
         "sous_titre": "Short story, Tippgemeinschaft 2025",
         "lien": ""
@@ -711,28 +819,28 @@
       },
       {
         "date_debut": "2021",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "postpoetry.NRW Prize",
         "sous_titre": "",
         "lien": ""
       },
       {
         "date_debut": "2018",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "postpoetry.NRW Prize",
         "sous_titre": "",
         "lien": ""
       },
       {
         "date_debut": "2020",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "Invitation to the 35th Treffen junger Autor*innen",
         "sous_titre": "Berliner Festspiele",
         "lien": ""
       },
       {
         "date_debut": "2019",
-        "date_fin": "",
+        "date_fin": null,
         "titre": "Annual prize — lyrix federal competition for young poetry",
         "sous_titre": "",
         "lien": ""

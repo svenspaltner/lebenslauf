@@ -19,7 +19,8 @@ const NOW = { fr: 'auj.', en: 'now', de: 'heute' };
 
 function fmt(e) {
   if (!e.date_debut) return '';
-  if (e.date_fin === '' || e.date_fin == null) return e.date_debut + '–' + NOW[lang];
+  if (e.date_fin === null || e.date_fin === undefined) return e.date_debut;
+  if (e.date_fin === '') return e.date_debut + '–' + NOW[lang];
   if (e.date_debut === e.date_fin) return e.date_debut;
   return e.date_debut + '–' + e.date_fin;
 }
@@ -46,7 +47,8 @@ function renderBody(data) {
     const entries = data[s.key] || [];
     const entriesHtml = entries.map(e => {
       const main = e[s.champ] || '';
-      const linked = e.lien ? `<a href="${e.lien}" target="_blank">${main}</a>` : main;
+      const linkIcon = `<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-left:5px;color:#00c896;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>`;
+      const linked = e.lien ? `${main}<a href="${e.lien}" target="_blank" style="color:inherit;text-decoration:none;">${linkIcon}</a>` : main;
       return `<div class="entry">
         <div class="entry-dates">${fmt(e)}</div>
         <div>
@@ -79,10 +81,11 @@ function renderBody(data) {
 }
 
 function renderLangSwitcher() {
+  const printBtn = `<button class="lang-btn" onclick="window.print()" style="margin-left:0.5rem;"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg></button>`;
   document.getElementById('lang-switcher').innerHTML =
     ['fr', 'en', 'de'].map(l =>
       `<button class="lang-btn ${l === lang ? 'active' : ''}" onclick="setLang('${l}')">${l.toUpperCase()}</button>`
-    ).join('');
+    ).join('') + printBtn;
 }
 
 function renderFilterBar(data) {
@@ -135,3 +138,6 @@ fetch('cv.json')
   .then(r => r.json())
   .then(data => { window.CV = data; render(); })
   .catch(err => console.error('Erreur chargement cv.json :', err));
+
+document.getElementById('cv-footer').innerHTML =
+  `<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a> — Sven Spaltner`;
