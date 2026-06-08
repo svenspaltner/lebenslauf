@@ -30,11 +30,11 @@ function renderHeader(data) {
   document.getElementById('cv-header').innerHTML = `
     <div class="cv-name">${i.nom}</div>
     <div class="cv-title">${i.titre}</div>
+    ${i.age ? `<span>${i.age} ${data.labels.age || 'ans'}</span>` : ''}
     <div class="cv-contact">
-      <span>${i.email}</span>
-      <a href="https://${i.site}" target="_blank">${i.site}</a>
-      <a href="https://${i.github}" target="_blank">${i.github}</a>
-      ${i.age ? `<span>${i.age} ${data.labels.age || 'ans'}</span>` : ''}
+    <span>${i.email}</span>
+    ${i.site ? `<a href="https://${i.site}" target="_blank"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:3px"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>site</a>` : ''}
+      ${i.github ? `<a href="https://${i.github}" target="_blank"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:3px"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>repo</a>` : ''}
       ${i.orcid ? `<a href="https://orcid.org/${i.orcid}" target="_blank">${ORCID_SVG}<span class="orcid-id">${i.orcid}</span></a>` : ''}
     </div>`;
 }
