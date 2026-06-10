@@ -157,6 +157,13 @@
     ],
     "interventions": [
       {
+        "date_debut": "03/2026",
+        "date_fin": null,
+        "titre": "Queere Literatur und queeres Schreiben",
+        "sous_titre": "Panel at the Leipziger Buchmesse",
+        "lien": ""
+      },
+      {
         "date_debut": "06/2024",
         "date_fin": null,
         "titre": "A kind of hysterical Writing. Fictocriticism als künstlerische Forschung",
@@ -172,6 +179,13 @@
       }
     ],
     "creations": [
+      {
+        "date_debut": "03/2026",
+        "date_fin": null,
+        "titre": "Postkarten in der Tippgemeinschaft 2026",
+        "sous_titre": "",
+        "lien": ""
+      },
       {
         "date_debut": "09/2025",
         "date_fin": null,
@@ -311,7 +325,7 @@
       "site": "https://svenspaltner.github.io/lebenslauf/",
       "github": "https://github.com/svenspaltner/lebenslauf/",
       "orcid": "0009-0007-6142-9424",
-      "age": 25
+      "age": 26
     },
     "sections": [
       {
@@ -461,6 +475,13 @@
     ],
     "interventions": [
       {
+        "date_debut": "03/2026",
+        "date_fin": null,
+        "titre": "Queere Literatur und queeres Schreiben",
+        "sous_titre": "Panel at the Leipziger Buchmesse",
+        "lien": ""
+      },
+      {
         "date_debut": "06/2024",
         "date_fin": null,
         "titre": "A kind of hysterical Writing. Fictocriticism als künstlerische Forschung",
@@ -476,6 +497,13 @@
       }
     ],
     "creations": [
+      {
+        "date_debut": "03/2026",
+        "date_fin": null,
+        "titre": "Postkarten in der Tippgemeinschaft 2026",
+        "sous_titre": "",
+        "lien": ""
+      },
       {
         "date_debut": "09/2025",
         "date_fin": null,
@@ -615,7 +643,7 @@
       "site": "https://svenspaltner.github.io/lebenslauf/",
       "github": "https://github.com/svenspaltner/lebenslauf/",
       "orcid": "0009-0007-6142-9424",
-      "age": 25
+      "age": 26
     },
     "sections": [
       {
@@ -765,10 +793,17 @@
     ],
     "interventions": [
       {
+        "date_debut": "03/2026",
+        "date_fin": null,
+        "titre": "Queere Literatur und queeres Schreiben",
+        "sous_titre": "Panel at the Leipziger Buchmesse",
+        "lien": ""
+      },
+      {
         "date_debut": "06/2024",
         "date_fin": null,
         "titre": "A kind of hysterical Writing. Fictocriticism as artistic research",
-        "sous_titre": "Panel »Fictive Knowledge – Knowledge of Fiction», conference Schreiben was kommt, Cologne",
+        "sous_titre": "Panel "Fictive Knowledge – Knowledge of Fiction", conference Schreiben was kommt, Cologne",
         "lien": "https://www.khm.de/schreiben_freitag/"
       },
       {
@@ -780,6 +815,13 @@
       }
     ],
     "creations": [
+      {
+        "date_debut": "03/2026",
+        "date_fin": null,
+        "titre": "Postkarten in der Tippgemeinschaft 2026",
+        "sous_titre": "",
+        "lien": ""
+      },
       {
         "date_debut": "09/2025",
         "date_fin": null,
